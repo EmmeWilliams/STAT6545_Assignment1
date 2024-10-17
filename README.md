@@ -10,4 +10,6 @@ Alternatively, the three .py files are Python scripts, one for each question of 
 Each contains only the raw Python script. Running each one will reproduce the plots for the
 associated question, saving them as pdfs.
 
+Seeds for random number generation are fixed, ensuring exact reproducibility.
+
 The submitted version of the assignment with text and plots is included as a pdf file.
